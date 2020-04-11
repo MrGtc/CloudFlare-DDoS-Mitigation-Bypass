@@ -18,6 +18,8 @@ npm install ws
 npm install request
 
 npm install rs
+
+Put node.js on your server in root dir and lunch it.
 # Power
 For lot power for testing on your site im recommend lot server like 6-10 with good & private proxy.
 

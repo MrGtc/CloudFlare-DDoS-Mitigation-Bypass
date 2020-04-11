@@ -17,6 +17,6 @@ npm install request
 
 npm install rs
 # Power
-For lot power for testing on your site im recommend lot server 6-10 and good & private proxy.
+For lot power for testing on your site im recommend lot server like 6-10 with good & private proxy.
 # Disclaimer
 We are not responsible for any damage done with this script, its has been made for educational purpose.

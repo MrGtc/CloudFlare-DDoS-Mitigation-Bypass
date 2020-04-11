@@ -18,5 +18,8 @@ npm install request
 npm install rs
 # Power
 For lot power for testing on your site im recommend lot server like 6-10 with good & private proxy.
+
+Lunch script : node node.js [YOURSITE]  GET [YOURtime] [YOURproxy]
+
 # Disclaimer
 We are not responsible for any damage done with this script, its has been made for educational purpose.

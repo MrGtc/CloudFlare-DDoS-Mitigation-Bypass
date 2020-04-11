@@ -1,5 +1,7 @@
 # CloudFlare-DDoS-Mitigation-Bypass.
-Layer 7 UAM Bypass
+This is a Layer 7 UAM Bypass.
+This is one of the first version of the original UAM Bypass. (With nor cloudscraper)
+This method has been made by serpico & Me. In 2K19.
 # Install
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 
